@@ -1,5 +1,5 @@
 +++
-title = 'INSTALACIÓN MONGO EN DEBIAN 13'
+title = 'INSTALACIÓN MONGODB EN DEBIAN 13'
 date = 2025-10-02T12:19:51+02:00
 draft = false
 +++	
