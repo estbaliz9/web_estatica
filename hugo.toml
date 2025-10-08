@@ -1,0 +1,17 @@
+baseURL = "https://tudominio.com/"
+languageCode = "es-es"
+title = "Aprende con Estíbaliz"
+theme = "PaperMod"
+
+[params]
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowReadingTime = true
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
