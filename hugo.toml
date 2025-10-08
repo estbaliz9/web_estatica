@@ -1,4 +1,4 @@
-baseURL = "https://tudominio.com/"
+baseURL = "https://aprendeconestibaliz.netlify.app/"
 languageCode = "es-es"
 title = "Aprende con Estíbaliz"
 theme = "PaperMod"

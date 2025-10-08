@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tudominio.com/</loc>
+    <lastmod>2025-10-02T12:19:51+02:00</lastmod>
+  </url><url>
+    <loc>https://tudominio.com/posts/primerpost/</loc>
+    <lastmod>2025-10-02T12:19:51+02:00</lastmod>
+  </url><url>
+    <loc>https://tudominio.com/posts/tercerpost/</loc>
+    <lastmod>2025-10-02T12:19:51+02:00</lastmod>
+  </url><url>
+    <loc>https://tudominio.com/posts/segundopost/</loc>
+    <lastmod>2025-10-02T12:19:51+02:00</lastmod>
+  </url><url>
+    <loc>https://tudominio.com/posts/</loc>
+    <lastmod>2025-10-02T12:19:51+02:00</lastmod>
+  </url><url>
+    <loc>https://tudominio.com/categories/</loc>
+  </url><url>
+    <loc>https://tudominio.com/tags/</loc>
+  </url>
+</urlset>
